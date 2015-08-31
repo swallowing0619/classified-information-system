@@ -1,4 +1,3 @@
-# classified-information-system
 # 涉密信息系统/Java
 ##系统设计需求：
 ###-综合需求 设计目标与展现方式：
